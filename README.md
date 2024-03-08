@@ -1,7 +1,12 @@
 ### Hi everyone 👋
 
+:mega: I'm a student of Mathematics and Data Analysis at Warsaw University of Technology.
 
+:pencil2: I'm currently teaching:
+- [Mathematical Statistics](https://github.com/danielewskai/SM_2024L)
 
+🔭 My projects:
+- [toRpeda](https://github.com/kozaka93/toRpEDA)
 
 📫 How to reach me:
 - [LinkedIn](www.linkedin.com/in/iza-danielewska)
