@@ -8,7 +8,7 @@
 
 
 🔭 My projects:
-- [toRpeda](https://github.com/kozaka93/toRpEDA)
+- [toRpeda](https://github.com/kozaka93/toRpEDA) - co-author
 
 
 📫 How to reach me:
