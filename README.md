@@ -4,7 +4,7 @@
 
 
 📫 How to reach me:
-- \url[LinkedIn]{www.linkedin.com/in/iza-danielewska}
+- [LinkedIn](www.linkedin.com/in/iza-danielewska)
 - iza.danielewska.stud@pw.edu.pl
 
 
