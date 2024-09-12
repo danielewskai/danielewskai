@@ -6,7 +6,7 @@
 :pencil2: I'm currently teaching:
 - [Basics of programming and data processing]
 
-:pencil1: I taught previously:
+:pencil: I taught previously:
 - [Mathematical Statistics](https://github.com/danielewskai/SM_2024L)
 
 🔭 My projects:
