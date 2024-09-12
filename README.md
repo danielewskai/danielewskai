@@ -4,8 +4,10 @@
 
 
 :pencil2: I'm currently teaching:
-- [Mathematical Statistics](https://github.com/danielewskai/SM_2024L)
+- [Basics of programming and data processing]
 
+:pencil1: I taught previously:
+- [Mathematical Statistics](https://github.com/danielewskai/SM_2024L)
 
 🔭 My projects:
 - [toRpeda](https://github.com/kozaka93/toRpEDA) - co-author
