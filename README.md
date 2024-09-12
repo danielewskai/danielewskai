@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-:mega: I'm a student of Mathematics and Data Analysis at Warsaw University of Technology.
+:mega: I'm a student of Mathematics and Data Analysis at Warsaw University of Technology. Sometimes I write papers about graphical models.
 
 
 :pencil2: I'm currently teaching:
