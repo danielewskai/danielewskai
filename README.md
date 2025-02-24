@@ -4,9 +4,10 @@
 
 
 :pencil2: I'm currently teaching:
-- [Basics of programming and data processing]
+- [Dependency analysis](https://github.com/danielewskai/AZ_2025L)
 
 :pencil: I taught previously:
+- Basics of programming and data processing
 - [Mathematical Statistics](https://github.com/danielewskai/SM_2024L)
 
 🔭 My projects:
