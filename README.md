@@ -4,7 +4,7 @@
 
 
 :pencil2: I'm currently teaching:
-- [Dependency analysis](https://github.com/danielewskai/AZ_2025L)
+- [Analysis of Dependence](https://github.com/danielewskai/AZ_2025L)
 - [Mathematical Statistics](https://github.com/danielewskai/SM_2025L)
 
 :pencil: I taught previously:
