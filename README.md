@@ -4,11 +4,12 @@
 
 
 :pencil2: I'm currently teaching:
-- [Analysis of Dependence](https://github.com/danielewskai/AZ_2025L)
-- [Mathematical Statistics](https://github.com/danielewskai/SM_2025L)
+- [Data Visualization Techniques](https://github.com/kozaka93/2025Z-DataVisualizationTechniques)
 
 :pencil: I taught previously:
 - Basics of programming and data processing
+- [Analysis of Dependence](https://github.com/danielewskai/AZ_2025L)
+- [Mathematical Statistics](https://github.com/danielewskai/SM_2025L)
 
 🔭 My projects:
 - [toRpeda](https://github.com/kozaka93/toRpEDA) - co-author
